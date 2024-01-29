@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sheersendu
-- 👀 I’m interested in DSA, designing a system
+- 👀 I’m interested in DSA, designing scalable systems
 - 🌱 I’m currently learning how to write production ready code
 - 💞️ I’m looking to collaborate on projects related to scalable systems
 - 📫 Ping me on LinkedIn: https://www.linkedin.com/in/sheersendu-ghosh
